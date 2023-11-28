@@ -1,2 +1,20 @@
+# Data Manipulation
 numpy
 pandas
+geopandas
+
+# Data Visualization
+jupyter # for notebooks
+matplotlib # for plots
+dearpygui==1.9.1 # for GUI
+folium # for maps
+
+# Utils
+tqdm # for progress bars
+
+# Weather Data
+openmeteo_requests # https://open-meteo.com
+
+# API Requests
+requests_cache
+retry_requests
